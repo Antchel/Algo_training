@@ -1,0 +1,2 @@
+C:\prj\Algo_training\Leetcode\Debug\Leetcode.exe
+C:\prj\Algo_training\Leetcode\Debug\Leetcode.pdb
